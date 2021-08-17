@@ -86,7 +86,7 @@ bath.addAnimation("baño",bath);
 
 
 function draw() {
-  background("black");
+  background("green");
   drawSprites(); 
   
 if(mousePressedOver (NEXT)){
